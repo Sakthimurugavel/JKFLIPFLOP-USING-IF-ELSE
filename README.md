@@ -90,5 +90,5 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![DE 7 2](https://github.com/Sakthimurugavel/JKFLIPFLOP-USING-IF-ELSE/assets/118707246/603c0558-7f02-449d-9a0e-d873baafe702)
 
-**RESULTS**
+## RESULTS
 Thus the program to implement a JK flipflop using verilog and validating their functionality using their functional tables has been executed successfully.
